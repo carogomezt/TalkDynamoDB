@@ -17,17 +17,16 @@ Talk About DynamoDB Given in Python Pereira
 
 Open a terminal and type:
 
-	```
-	terraform init
-	terraform plan
-	terraform apply
-	```
+```
+terraform init
+terraform plan
+terraform apply
+```
 
 ## Run functions
 
 Open a terminal and type:
 
-	``` 
-	python dynamoexample.py
-	```
-	
+``` 
+python dynamoexample.py
+```
